@@ -14,3 +14,11 @@ conclusion：我是运用notepad作为编辑器，而没有选择submit。如何
 【day2】
 conlusion：因为有计算机基础，所以这一节的内容很容易理解，唯一值得注意的时候变量的应用方式（‘%.1f’,f）。
 【day3】
+Q1：遭遇挫折，怀疑人生。
+SyntaxError: invalid syntax
+>>> for i in range(1,100):
+...    sum+=i
+... print (sum)
+  File "<stdin>", line 3
+    print (sum)
+  照着打的都报错，那么简单的语法到底哪里错了，怀疑人生。
