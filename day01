@@ -1,3 +1,4 @@
+【day1】
 Q1：执行pip指令显示synax error
 A1：系统中添加path指令，指导链接https://blog.csdn.net/We_chuan/article/details/83588768。
 h2：翻译import this
@@ -10,3 +11,6 @@ A2：美丽比丑陋更美好，直白比含蓄更优越，简单比复杂更容
 h3：学习使用turtle绘制图像
 A3：一个正方形
 conclusion：我是运用notepad作为编辑器，而没有选择submit。如何运用notepad可能还需要继续学习。
+【day2】
+conlusion：因为有计算机基础，所以这一节的内容很容易理解，唯一值得注意的时候变量的应用方式（‘%.1f’,f）。
+【day3】
